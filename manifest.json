@@ -1,7 +1,6 @@
 {
     "short_name":"Tuxedo App",
     "name": "Tuxdeo",
-    "start_url": "/",
     "background_color": "#3498db",
     "theme_color": "#3498db",
     "display": "standalone",
